@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/AW/ARDino Menu.unity
+    guid: e75fe483e6c47294682989496f64eb37
+  - enabled: 1
+    path: Assets/AW/ARDino PlaceOnPlane.unity
+    guid: 8eb906a60ca3e594299c320cc7dc40d6
+  - enabled: 0
+    path: Assets/AW/ARDino ImageTracking.unity
+    guid: 610da61288d0c8149bed719cac42a62d
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: f8ce26fe3bc69499b9be4b2378e97a94,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 98c79e8cc22674a89a95a3a90e2b70cb,
+      type: 2}
+    com.unity.xr.arkit.PlayerSettings: {fileID: 11400000, guid: 2d5fb8e61571b4e3897f221189089fd6,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e2f869774b12e400996eb546603602e3,
+      type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 8c1998cfeace3fc448735c62f9ec6f7a,
+      type: 2}
